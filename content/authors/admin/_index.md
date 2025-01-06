@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD in Computational Cosmology
     institution: Donostia International Physics Center
-    date_start: '2021'
-    date_end: '2025'
+    date_start: 2021-10-01
+    date_end: ''
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -65,8 +65,8 @@ education:
     #   url: 'https://example.com'
   - area: MCs in Theoretical Physics
     institution: Universidad Autónoma de Madrid
-    date_start: '2020'
-    date_end: '2021'
+    date_start: 2020-09-01
+    date_end: 2021-06-30
     #summary: |
     #  GPA: 3.8/4.0
 
@@ -76,8 +76,8 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc in Physics
     institution: University of the Basque Country
-    date_start: '2015'
-    date_end: '2019'
+    date_start: 2015-09-01
+    date_end: 2019-06-30
     # summary: |
     #   GPA: 3.4/4.0
       
