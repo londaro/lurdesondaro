@@ -166,7 +166,7 @@ awards:
   - title: Ikasiker Fellowship
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: 2021-06-01
-     awarder: Government of the Basque Country
+    awarder: Government of the Basque Country
   #   icon: edx
   #   summary: |
   #     Learned:
