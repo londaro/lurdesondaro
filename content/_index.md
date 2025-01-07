@@ -59,7 +59,8 @@ sections:
           - publication
         exclude_featured: false
     design:
-      view: citation
+      view: article-grid
+      columns: 3
   - block: resume-awards
     id : awards
     content:
