@@ -12,7 +12,7 @@ main:
     weight: 11
   - name: Papers
     url: /#papers
-    weight: 11
+    weight: 15
   - name: Awards
     url: /#awards
     weight: 20
