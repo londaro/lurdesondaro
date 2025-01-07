@@ -18,4 +18,5 @@ publication: '*arXiv e-prints*'
 doi: 10.48550/arXiv.2412.08623
 tags:
 - Astrophysics - Cosmology and Nongalactic Astrophysics
+featured: true
 ---

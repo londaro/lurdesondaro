@@ -19,4 +19,5 @@ tags:
 - large-scale structure of Universe
 - Astrophysics - Cosmology and Nongalactic Astrophysics
 - Astrophysics - Astrophysics of Galaxies
+featured: true
 ---
