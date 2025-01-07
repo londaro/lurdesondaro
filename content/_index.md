@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: lss.png
           filters:
-            brightness: 1.0
+            brightness: 0.05
           size: cover
           position: center
           parallax: false
