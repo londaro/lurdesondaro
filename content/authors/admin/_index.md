@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -41,10 +41,8 @@ profiles:
   #  url: https://github.com/gcushen
   #- icon: brands/linkedin
   #  url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  - icon: academicons/ads
+    url: https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2F2mkD_Q4-TjSagdURI3tZ_w)&sort=date%20desc%2C%20bibcode%20desc
 
 interests:
   - Computational Cosmology
@@ -161,14 +159,14 @@ awards:
   - title: La Caixa Inphinit Retaining Fellowship
     url: https://lacaixafoundation.org/en/doctoral-inphinit-fellowships-description
     date: 2021-10-01
-    #awarder: Coursera
+    awarder: La Caixa
     #icon: coursera
     # summary: |
     #   I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: Ikasiker Fellowship
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: 2021-06-01
-  #   awarder: edX
+     awarder: Government of the Basque Country
   #   icon: edx
   #   summary: |
   #     Learned:
@@ -179,12 +177,13 @@ awards:
   #   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
   #   certificate_url: https://www.datacamp.com
     date: 2019-07-01
-  #   awarder: datacamp
+    awarder: DIPC
   #   icon: datacamp
   #   summary: |
   #     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
   - title: Best Academic Record in Physics
     date: 2019-06-01
+    awarder: University of the Basque Country
 
 ---
 

@@ -2,7 +2,7 @@
 title: 'FLAMINGO: Galaxy formation and feedback effects on the gas density and velocity
   fields'
 authors:
-- Lurdes \textbfOndaro-Mallea
+- Lurdes Ondaro-Mallea
 - Raul E. Angulo
 - Giovanni Aricò
 - Joop Schaye
