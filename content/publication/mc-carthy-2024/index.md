@@ -25,6 +25,7 @@ publication_types:
 publication: '*arXiv e-prints*'
 doi: 10.48550/arXiv.2410.19905
 tags:
-- Astrophysics - Cosmology and Nongalactic Astrophysics
+- Kinetic Sunyaev-Zeldovich effect
+- FLAMINGO simulations
 featured: true
 ---

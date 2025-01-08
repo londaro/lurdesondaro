@@ -14,9 +14,7 @@ publication_types:
 publication: '*mnras*'
 doi: 10.1093/mnras/stab3337
 tags:
-- 'methods: statistical'
-- large-scale structure of Universe
-- 'cosmology: theory'
-- Astrophysics - Cosmology and Nongalactic Astrophysics
-- Astrophysics - Astrophysics of Galaxies
+- Cluster cosmology
+- Modelling non universal halo mass function
+- Structure formation
 ---

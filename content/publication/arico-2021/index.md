@@ -14,10 +14,7 @@ publication_types:
 publication: '*mnras*'
 doi: 10.1093/mnras/stab1911
 tags:
-- 'methods: numerical'
-- cosmological parameters
-- large-scale structure of Universe
-- Astrophysics - Cosmology and Nongalactic Astrophysics
-- Astrophysics - Astrophysics of Galaxies
+- Emulators
+- Baryonic suppression on the matter power spectrum 
 featured: true
 ---

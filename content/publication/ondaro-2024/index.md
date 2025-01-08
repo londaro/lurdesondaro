@@ -14,7 +14,7 @@ publication_types:
 publication: '*mnras*'
 doi: 10.1093/mnras/stad3949
 tags:
-- 'methods: numerical'
-- dark matter
-- large-scale structure of Universe
+- Smallest dark matter structure
+- Warm dark matter
+- Phase-space simulations
 ---
