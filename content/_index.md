@@ -68,14 +68,13 @@ sections:
   - block: markdown
     content:
       title: 'ejem'
+      subtitle: ''
       text: |-
         Description here
         Description here
         Description here
     design:
       columns: '3'
-      spacing: 
-        padding: ['20px','0','20px','0']
       
   - block: collection
     id: publications
