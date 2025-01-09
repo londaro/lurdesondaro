@@ -28,8 +28,7 @@ doi: ''
 publication: In arxiv
 publication_short: In arxiv
 
-abstract: 
-
+abstract: Most of the visible matter in the Universe is in a gaseous state, subject to hydrodynamic forces and galaxy formation processes that are much more complex to model than gravity. These baryonic effects can potentially bias the analyses of several cosmological probes, such as weak gravitational lensing. In this work, we study the gas density and velocity fields of the FLAMINGO simulations and compare them with their gravity-only predictions. 
 # Summary. An optional shortened abstract.
 summary: 
 
@@ -56,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
+  caption: 'Gas density (left) and radial velocity (right) fields around a group size halo. Baryonic feedback sources powerful outflows (in blue) that eject the gas to the outskirts of the halo. The reach of the ejected gas depends on the strength of feedback. The white circles represent 5 times the virial radius of the central halo.'
   focal_point: ''
   preview_only: false
 

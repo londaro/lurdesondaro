@@ -27,7 +27,7 @@ doi: ''
 publication: In MNRAS
 publication_short: In MNRAS
 
-abstract: In this paper we simulated the formation of the smallest dark matter structure to form in the Universe. We developed a novel phase-space simulation methods, which do not suffer from numerical artifacts as standard N-body simulations do. Hence, we reliably resolve the formation of the first haloes. As a consequence of gravitational collapse, the first generation of haloes hosts steep prompt cusps in their inner regions, regardless of the warmth of dark matter. This has important implications in the long-standing question of the origin of dark matter halo density profiles, as well as in the searches of dark matter.
+abstract: In the Cold Dark Matter (CDM) paradigm, haloes assemble hierarchically, and their density profiles universally follow the Navarro-Frenk-White (NFW) shape. However, the finite temperature of dark matter —no matter how low— imposes a fundamental limit on this hierarchical process, determining the size of the smallest haloes. In this paper, we simulate the formation of the smallest dark matter structures that can form in the Universe. We developed a novel phase-space simulation methods, which do not suffer from numerical artifacts as standard N-body simulations do. Hence, we reliably resolve the formation of the first and smallest haloes. As a consequence of gravitational collapse, the first generation of haloes hosts steep prompt cusps in their inner regions, regardless of the warmth of dark matter. This has important implications in the long-standing question of the origin of dark matter halo density profiles, as well as in the searches of dark matter.
 
 # Summary. An optional shortened abstract.
 summary: 
