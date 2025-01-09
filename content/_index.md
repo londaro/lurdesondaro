@@ -119,7 +119,8 @@ sections:
       count: 10
       # Filter on criteria
       filters:
-        folder: outreach
+        folders: 
+          - outreach
         author: ""
         category: ""
         tag: ""
