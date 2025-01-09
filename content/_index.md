@@ -45,6 +45,15 @@ sections:
       css_class: dark
       background:
         color: black
+        video:
+          # Name of video in `assets/media/`.
+          filename: example-video.mp4
+          # Post-processing: flip the video horizontally?
+          flip: false
+      spacing:
+        # Customize the section spacing. Order is top, right, bottom, left.
+        padding: ['20px', '0', '20px', '0']
+
       #  image:
       #    # Add your image background to `assets/media/`.
       #    filename: lss2.png
@@ -55,22 +64,22 @@ sections:
       #    parallax: false
       #column-width: '100%' # Adjust width to a percentage or specific value
       #align: 'center' # Center-align the text within the block (optional)
-  - block: collection
-    # id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-      image:
-        size: "300x200" # Example resizing (depends on implementation)
-      link: false # Custom flag to disable links
-      summary:
-        length: 150 # Extend summary length
+  #- block: collection
+  #  # id: papers
+  #  content:
+  #    title: Featured Publications
+  #    filters:
+  #      folders:
+  #        - publication
+  #      featured_only: true
+  #  design:
+  #    view: article-grid
+  #    columns: 2
+  #    image:
+  #      size: "300x200" # Example resizing (depends on implementation)
+  #    link: false # Custom flag to disable links
+  #    summary:
+  #      length: 150 # Extend summary length
 
   - block: collection
     id: publications
