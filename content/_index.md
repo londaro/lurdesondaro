@@ -69,7 +69,7 @@ sections:
     id: publications
     content:
       title: Publications
-      text: [Here][https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L]
+      #text: [Here][https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L]
       links: 
         - name: You can find all my publications here
         - url: https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L
@@ -106,6 +106,7 @@ sections:
     content:
       title: Awards
       username: admin
+
   #- block: collection
   #  id: talks
   #  content:
