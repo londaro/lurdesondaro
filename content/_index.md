@@ -43,16 +43,16 @@ sections:
     design:
       columns: '1'
       css_class: dark
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: lss2.png
-          filters:
-            brightness: 0.7
-          size: cover
-          position: center
-          parallax: false
+      #background:
+      #  color: black
+      #  image:
+      #    # Add your image background to `assets/media/`.
+      #    filename: lss2.png
+      #    filters:
+      #      brightness: 0.7
+      #    size: cover
+      #    position: center
+      #    parallax: false
       #column-width: '100%' # Adjust width to a percentage or specific value
       #align: 'center' # Center-align the text within the block (optional)
 
