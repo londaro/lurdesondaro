@@ -66,7 +66,12 @@ sections:
     design:
       view: article-grid
       columns: 2
-      
+      image:
+        size: "300x200" # Example resizing (depends on implementation)
+      link: false # Custom flag to disable links
+      summary:
+        length: 150 # Extend summary length
+
   - block: collection
     id: publications
     content:
