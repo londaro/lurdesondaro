@@ -43,16 +43,16 @@ sections:
     design:
       columns: '1'
       css_class: dark
-      background:
-        color: black
-        video:
+      #background:
+       # color: black
+      #  video:
           # Name of video in `assets/media/`.
-          filename: example-video.mp4
+      #    filename: example-video.mp4
           # Post-processing: flip the video horizontally?
-          flip: false
-      spacing:
+      #    flip: false
+      #spacing:
         # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
+      #  padding: ['20px', '0', '20px', '0']
 
       #  image:
       #    # Add your image background to `assets/media/`.
