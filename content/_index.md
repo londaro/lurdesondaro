@@ -66,7 +66,10 @@ sections:
       #align: 'center' # Center-align the text within the block (optional)
       
   - block: collection
-    # id: papers
+    id: publications
+    links: 
+      - name: you can access all my publications here
+      - url: https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L
     content:
       title: Publications
       filters:
