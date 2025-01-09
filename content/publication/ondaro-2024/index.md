@@ -25,7 +25,7 @@ doi: ''
 
 # Publication name and optional abbreviated publication name.
 publication: In MNRAS
-publication_short: In *MNRAS*
+publication_short: In MNRAS
 
 abstract: In this paper we simulated the formation of the smallest dark matter structure. Our novel phase-space simulations do not suffer from numerical artifacts as standard N-body simulations do, thus we reliably resolve the formation of the first haloes in smooth dark matter filaments. As a consequence of gravitational collapse from the smooth dark matter field, these haloes form prompt cusps in their inner regions, regardless of the warmth of dark matter. This has important implications in the long-standing question of the origin of dark matter halo density profiles, as well as in the searches of dark matter. 
 
