@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     id: research
     content:
@@ -40,6 +41,7 @@ sections:
 
     design:
       columns: '1'
+      width: 1
   # - block: collection
   #   id: papers
   #   content:
