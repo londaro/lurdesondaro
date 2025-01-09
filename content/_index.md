@@ -69,6 +69,7 @@ sections:
     id: publications
     content:
       title: Publications
+      summary: 'You can find all my publications here'
       #external_link: https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L
       #subtitle: 'You can find all my publications here'
       #text: [You can find all my publications here](ttps://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L)
