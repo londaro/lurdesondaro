@@ -38,8 +38,9 @@ abstract: Most of the visible matter in the Universe is in a gaseous state, subj
 summary: 
 
 tags:
-  - Baryonic effects on cosmic gas
-
+  - Baryonic effects
+  - Cosmic gas
+  
 # Display this page in the Featured widget?
 featured: true
 

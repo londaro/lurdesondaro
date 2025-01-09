@@ -38,7 +38,8 @@ abstract: In the Cold Dark Matter (CDM) paradigm, haloes assemble hierarchically
 summary: 
 
 tags:
-  - Formation of smallest dark matter structure
+  - Dark matter
+  - Structure formation
 
 # Display this page in the Featured widget?
 featured: true
