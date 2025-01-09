@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD fellow
+role: La Caixa Inphinit PhD fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -161,8 +161,8 @@ awards:
     date: 2021-10-01
     awarder: La Caixa
     #icon: coursera
-    # summary: |
-         
+    #summary: |
+             
   - title: Ikasiker Fellowship
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: 2021-06-01
