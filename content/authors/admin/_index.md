@@ -49,6 +49,7 @@ interests:
   - Dark matter
   - Baryonic effects
   - Large Scale Structure modelling
+  - Simulations
 
 education:
   - area: PhD in Computational Cosmology
