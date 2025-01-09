@@ -74,10 +74,13 @@ sections:
           - publication
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
-      image:
-        height: '100%'
+      view: showcase
+      flip_alt_rows: true
+
+      #view: article-grid
+      #columns: 2
+      #image:
+      #  height: '100%'
       #link: false # Custom flag to disable links
       #summary:
       #  length: 150 # Extend summary length
