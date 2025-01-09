@@ -67,11 +67,12 @@ sections:
       
   - block: collection
     id: publications
-    links: 
-      - name: you can access all my publications here
-      - url: https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L
     content:
       title: Publications
+      text: [Here][https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L]
+      links: 
+      - name: You can find all my publications here
+      - url: https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L
       filters:
         folders:
           - publication
@@ -165,3 +166,6 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
 ---
+
+
+[def]: https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L
