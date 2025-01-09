@@ -55,18 +55,18 @@ sections:
       #    parallax: false
       #column-width: '100%' # Adjust width to a percentage or specific value
       #align: 'center' # Center-align the text within the block (optional)
-
   - block: collection
     # id: papers
-     content:
-       title: Featured Publications
-       filters:
-         folders:
-           - publication
-         featured_only: true
-     design:
-       view: article-grid
-       columns: 2
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+      
   - block: collection
     id: publications
     content:
