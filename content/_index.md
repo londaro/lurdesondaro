@@ -71,8 +71,8 @@ sections:
       title: Publications
       text: [Here][https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L]
       links: 
-      - name: You can find all my publications here
-      - url: https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L
+        - name: You can find all my publications here
+        - url: https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L
       filters:
         folders:
           - publication
