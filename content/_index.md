@@ -68,14 +68,14 @@ sections:
   - block: collection
     # id: papers
     content:
-      title: Featured Publications
+      title: Publications
       filters:
         folders:
           - publication
         featured_only: true
     design:
-      view: showcase
-      flip_alt_rows: true
+      view: article-grid
+      columns: 3
 
       #view: article-grid
       #columns: 2
