@@ -42,7 +42,7 @@ sections:
           To answer to these questions, I run and analyze cosmological simulations. My work encompasses developing novel numerical techniques to reliably simulate structure formation, as well as building fast and accurate models of LSS statistics. 
     design:
       columns: '1'
-      
+      css_class: dark
       background:
         color: black
         image:
