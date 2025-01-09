@@ -109,12 +109,12 @@ sections:
       username: admin
 
   - block: collection
-   id: talks
-   content:
-     title: Recent & Upcoming Talks
-     filters:
-       folders:
-         - event
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
    design:
      view: article-grid
      columns: 1
