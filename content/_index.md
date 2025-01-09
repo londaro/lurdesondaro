@@ -64,12 +64,13 @@ sections:
       #    parallax: false
       #column-width: '100%' # Adjust width to a percentage or specific value
       #align: 'center' # Center-align the text within the block (optional)
-        
+
+
   - block: collection
     id: publications
     content:
       title: Publications
-      text: [You can find all my publications here](ttps://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L)
+      #text: [You can find all my publications here](ttps://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L)
       #text: [Here][https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L]
       filters:
         folders:
