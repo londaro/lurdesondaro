@@ -10,12 +10,12 @@ authors:
 - Andrina Nicola
 - Matthieu Schaller
 - Joop Schaye
-date: '2024-12-01'
+date: '2024-12-11'
 publication: 'In arxiv'
 links:
     - name: arxiv
       url: https://arxiv.org/pdf/2412.08623
 tags:
-  - Dark matter
+  - Baryonic effects
 featured: false
 ---
