@@ -1,6 +1,7 @@
 ---
 title: Publications
 cms_exclude: true
+text: 'You can find a list of my publications here'
 
 # View.
 view: article-grid
