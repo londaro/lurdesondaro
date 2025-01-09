@@ -65,15 +65,15 @@ sections:
       #column-width: '100%' # Adjust width to a percentage or specific value
       #align: 'center' # Center-align the text within the block (optional)
   
-  - block: collection
+  - block: markdown
     content:
       title: ''
-      filters:
-        folders: 
-          - projects_research
+      text: |-
+        Description here
+        Description here
+        Description here
     design:
-      view: article-grid
-      columns: 3
+      columns: '3'
       spacing: 
         padding: ['20px','0','20px','0']
       
