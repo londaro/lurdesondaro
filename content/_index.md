@@ -64,6 +64,18 @@ sections:
       #    parallax: false
       #column-width: '100%' # Adjust width to a percentage or specific value
       #align: 'center' # Center-align the text within the block (optional)
+  
+  - block: collection
+    content:
+      title: ''
+      filters:
+        folders: 
+          - projects_research
+    design:
+      view: article-grid
+      columns: 3
+      spacing: 
+        padding: ['20px','0','20px','0']
       
   - block: collection
     id: publications
