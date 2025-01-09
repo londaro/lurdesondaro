@@ -74,13 +74,14 @@ sections:
 
           To answer to these questions, I run and analyze cosmological simulations. My work encompasses developing novel numerical techniques to reliably simulate structure formation, as well as building fast and accurate models of LSS statistics. 
     design:
-      columns: '3'
+      columns: '1'
       css_class: dark
       
   - block: collection
     id: publications
     content:
       title: Publications
+      text: [You can find all my publications here](ttps://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L)
       #text: [Here][https://arxiv.org/search/astro-ph?searchtype=author&query=Ondaro-Mallea,+L]
       links: 
         - name: You can find all my publications here
