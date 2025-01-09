@@ -1,8 +1,5 @@
 ---
 title: 'Outreach'
-type: landing
+cms_exclude: true
 
-design:
-  # Section spacing
-  spacing: '5rem'
 ---
