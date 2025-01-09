@@ -104,7 +104,7 @@ sections:
   - block: resume-awards
     id : awards
     content:
-      title: Awards
+      title: Grants and awards
       username: admin
 
   #- block: collection
