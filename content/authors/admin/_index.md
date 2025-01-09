@@ -45,11 +45,10 @@ profiles:
     url: https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2F2mkD_Q4-TjSagdURI3tZ_w)&sort=date%20desc%2C%20bibcode%20desc
 
 interests:
-  - Computational Cosmology
-  - Simulations
-  - Baryonic effects in Large Scale Structure
   - Structure formation
-  - Testing CDM
+  - Dark matter
+  - Baryonic effects
+  - Large Scale Structure modelling
 
 education:
   - area: PhD in Computational Cosmology
