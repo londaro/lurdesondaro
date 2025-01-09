@@ -40,9 +40,19 @@ sections:
           The large-scale structure of the Universe we observe today is the end product of the intricate evolution of dark matter and baryon fluctuations, shaped by gravity and hydrodynamic forces, within a cosmos now dominated by dark energy. In my research, I try to understand and model various aspects of this process of structure formation, thus aiming to shed light on its fundamental components: dark matter and dark energy.
 
           To answer to these questions, I run and analyze cosmological simulations. My work encompasses developing novel numerical techniques to reliably simulate structure formation, as well as building fast and accurate models of LSS statistics. 
-
     design:
       columns: '1'
+      
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: lss2.png
+          filters:
+            brightness: 0.7
+          size: cover
+          position: center
+          parallax: false
       #column-width: '100%' # Adjust width to a percentage or specific value
       #align: 'center' # Center-align the text within the block (optional)
 
