@@ -17,5 +17,5 @@ doi: 10.48550/arXiv.2412.09526
 tags:
 - Baryonic effects on cosmic gas
 - FLAMINGO simulations
-summary: jjjjjjjjjjjjjjjjj
+#summary: jjjjjjjjjjjjjjjjj
 ---
