@@ -67,7 +67,7 @@ sections:
   
   - block: markdown
     content:
-      title: ''
+      title: 'ejem'
       text: |-
         Description here
         Description here
