@@ -6,14 +6,19 @@ title: 'FLAMINGO: Galaxy formation and feedback effects on the gas density and v
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
+  - Lurdes Ondaro-Mallea
+  - Raul E. Angulo
+  - Giovanni Aricò
+  - Joop Schaye
+  - Ian G. McCarthy
+  - Matthieu Schaller
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2024-12-01'
+date: '2024-12-12'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
