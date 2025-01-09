@@ -1,22 +1,77 @@
 ---
 title: 'FLAMINGO: Galaxy formation and feedback effects on the gas density and velocity
   fields'
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
 authors:
-- Lurdes Ondaro-Mallea
-- Raul E. Angulo
-- Giovanni Aricò
-- Joop Schaye
-- Ian G. McCarthy
-- Matthieu Schaller
+  - admin
+
+# Author notes (optional)
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
+
 date: '2024-12-01'
-publishDate: '2025-01-06T22:47:30.607836Z'
-publication_types:
-- article-journal
-publication: '*arXiv e-prints*'
-doi: 10.48550/arXiv.2412.09526
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+#publishDate: '2017-01-01T00:00:00Z'
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+#publication_types: ['paper-conference']
+
+# Publication name and optional abbreviated publication name.
+publication: In arxiv
+publication_short: In arxiv
+
+abstract: 
+
+# Summary. An optional shortened abstract.
+summary: 
+
 tags:
-- Baryonic effects on cosmic gas
-- FLAMINGO simulations
+  - Baryonic effects on cosmic gas
+
+# Display this page in the Featured widget?
 featured: true
-summary: In this paper we simulated the formation of the smallest dark matter structure. Our novel phase-space simulations do not suffer from numerical artifacts as standard N-body simulations do, thus we reliably resolve the formation of the first haloes in smooth dark matter filaments. As a consequence of gravitational collapse from the smooth dark matter field, these haloes form prompt cusps in their inner regions, regardless of the warmth of dark matter. This has important implications in the long-standing question of the origin of dark matter halo density profiles, as well as in the searches of dark matter. 
+
+# Custom links (uncomment lines below)
+links:
+ - name: arxiv
+   url: https://arxiv.org/pdf/2412.09526
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+#- example
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
 ---
