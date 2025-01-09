@@ -39,12 +39,12 @@ sections:
       text: |-
           The large-scale structure of the Universe we observe today is the end product of the intricate evolution of dark matter and baryon fluctuations, shaped by gravity and hydrodynamic forces, within a cosmos now dominated by dark energy. In my research, I try to understand and model various aspects of this process of structure formation, thus aiming to shed light on its fundamental components: dark matter and dark energy.
 
-          aaa
+          To answer to this questions, I run and analyze accurate cosmological simulations. 
 
     design:
       columns: '1'
-      column-width: '100%' # Adjust width to a percentage or specific value
-      align: 'center' # Center-align the text within the block (optional)
+      #column-width: '100%' # Adjust width to a percentage or specific value
+      #align: 'center' # Center-align the text within the block (optional)
 
   # - block: collection
   #   id: papers
