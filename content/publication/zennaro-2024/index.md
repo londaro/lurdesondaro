@@ -5,18 +5,17 @@ authors:
 - Giovanni Aricò
 - Carlos Garcı́a-Garc\á
 - Raúl E. Angulo
-- Lurdes Ondaro-Mallea
+- admin
 - Sergio Contreras
 - Andrina Nicola
 - Matthieu Schaller
 - Joop Schaye
 date: '2024-12-01'
-publishDate: '2025-01-06T22:47:30.601315Z'
-publication_types:
-- article-journal
-publication: '*arXiv e-prints*'
-doi: 10.48550/arXiv.2412.08623
+publication: 'In arxiv'
+links:
+    - name: arxiv
+      url: https://arxiv.org/pdf/2412.08623
 tags:
-- Baryonic effects on galaxy-galaxy lensing
+  - Baryonic effects
 featured: false
 ---

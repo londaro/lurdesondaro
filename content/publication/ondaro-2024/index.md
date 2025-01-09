@@ -5,11 +5,11 @@ title: 'Phase-space simulations of prompt cusps: simulating the formation of fir
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Lurdes Ondaro-Mallea
+  - admin
   - Raul E. Angulo
   - Jens Stücker
   - Oliver Hahn
-  - Simon D.~M. White
+  - Simon D. M. White
 date: '2024-02-01'
 
 # Author notes (optional)

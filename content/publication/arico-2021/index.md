@@ -4,17 +4,19 @@ authors:
 - Giovanni Aricò
 - Raul E. Angulo
 - Sergio Contreras
-- Lurdes Ondaro-Mallea
+- admin
 - Marcos Pellejero-Ibañez
 - Matteo Zennaro
 date: '2021-09-01'
-publishDate: '2025-01-06T22:47:30.634080Z'
-publication_types:
-- article-journal
-publication: '*mnras*'
-doi: 10.1093/mnras/stab1911
+#publishDate: '2025-01-06T22:47:30.634080Z'
+#publication_types:
+#- article-journal
+publication: 'In MNRAS'
+#doi: 10.1093/mnras/stab1911
+links:
+    - name: arxiv
+      url: https://arxiv.org/pdf/2011.15018
 tags:
-- Emulators
-- Baryonic suppression on the matter power spectrum 
+  - Baryonic effects
 featured: false
 ---

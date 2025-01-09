@@ -16,16 +16,15 @@ authors:
 - Victor J. Forouhar Moreno
 - Carlos S. Frenk
 - Robert J. McGibbon
-- Lurdes Ondaro-Mallea
+- admin
 - Marcel P. van Daalen
 date: '2024-10-01'
-publishDate: '2025-01-06T22:47:30.614151Z'
-publication_types:
-- article-journal
-publication: '*arXiv e-prints*'
-doi: 10.48550/arXiv.2410.19905
+publication: 'In arxiv'
+links:
+  - name: arxiv
+    url: https://arxiv.org/pdf/2410.19905
 tags:
-- Kinetic Sunyaev-Zeldovich effect
-- FLAMINGO simulations
+  - Baryonic effects
+  - kSZ
 featured: false
 ---
