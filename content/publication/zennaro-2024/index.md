@@ -18,5 +18,5 @@ publication: '*arXiv e-prints*'
 doi: 10.48550/arXiv.2412.08623
 tags:
 - Baryonic effects on galaxy-galaxy lensing
-featured: true
+featured: false
 ---

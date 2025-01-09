@@ -85,18 +85,18 @@ sections:
       #summary:
       #  length: 150 # Extend summary length
 
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      view: article-grid
-      columns: 3
+  #- block: collection
+  #  id: publications
+  #  content:
+  #    title: Publications
+  #    text: ""
+  #    filters:
+  #      folders:
+  #        - publication
+  #      exclude_featured: true
+  #  design:
+  #    view: article-grid
+  #    columns: 3
   - block: resume-awards
     id : awards
     content:

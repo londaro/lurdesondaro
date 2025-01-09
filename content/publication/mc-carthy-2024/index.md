@@ -27,5 +27,5 @@ doi: 10.48550/arXiv.2410.19905
 tags:
 - Kinetic Sunyaev-Zeldovich effect
 - FLAMINGO simulations
-featured: true
+featured: false
 ---

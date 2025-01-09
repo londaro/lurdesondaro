@@ -16,5 +16,5 @@ doi: 10.1093/mnras/stab1911
 tags:
 - Emulators
 - Baryonic suppression on the matter power spectrum 
-featured: true
+featured: false
 ---
