@@ -109,9 +109,9 @@ sections:
       username: admin
 
   - block: collection
-    id: news
+    id: outreach
     content:
-      title: Recent News
+      title: Outreach
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -133,10 +133,11 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: list #date-title-summary
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
