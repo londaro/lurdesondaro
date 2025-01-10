@@ -17,7 +17,7 @@ main:
     url: /#awards
     weight: 20
   - name: Outreach
-    url: /#outreach/
+    url: /#outreach
     weight: 30
   # - name: News
   #   url: /#news

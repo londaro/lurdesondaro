@@ -109,7 +109,7 @@ sections:
       username: admin
 
   - block: collection
-    id: outreach
+    id : outreach
     content:
       title: Outreach
       subtitle: ''
