@@ -189,4 +189,4 @@ awards:
 
 ## About Me
 
-I am Lurdes Ondaro, a PhD fellow in Donostia International Physics Center. In my research, I construct precise models of Large Scale structure statistics, using large cosmological simulations. 
+I am Lurdes Ondaro, a Postdoctoral researcher at the Institute of Astronomy, University of Cambridge. Previously, I was a PhD fellow at Donostia International Physics Center. In my research, I construct precise models of Large Scale structure statistics, using large cosmological simulations. 
