@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: La Caixa Inphinit PhD fellow
+role: Postdoctoral researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Donostia International Physics Center
-    url: https://dipc.ehu.eus/es
+  - name: Institute of Astronomy, University of Cambridge
+    url: https://www.ast.cam.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:lurdes.ondaro@dipc.org'
+    url: 'mailto:lurdes.ondaro@ast.cam.ac.uk'
     label: E-mail Me
   #- icon: brands/x
   #  url: https://twitter.com/GetResearchDev
@@ -55,7 +55,7 @@ education:
   - area: PhD in Computational Cosmology
     institution: Donostia International Physics Center
     date_start: 2021-10-01
-    date_end: ''
+    date_end: 2025-07-11
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
