@@ -156,6 +156,10 @@ education:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Cum Laude mention in PhD thesis
+    date: 2025-07-10
+    awarder: University of the Basque Country
+
   - title: La Caixa Inphinit Retaining Fellowship
     url: https://lacaixafoundation.org/en/doctoral-inphinit-fellowships-description
     date: 2021-10-01
